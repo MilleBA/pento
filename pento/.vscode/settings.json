@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "*.heex": "phoenix-heex",
+    "*.ex": "phoenix-heex",
+    "*.exs": "phoenix-heex"
+  },
+  "tailwindCSS.includeLanguages": {
+    "phoenix-heex": "html",
+    "elixir": "html",
+    "heex": "html"
+  },
+  "emmet.includeLanguages": {
+    "phoenix-heex": "html",
+    "elixir": "html"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
